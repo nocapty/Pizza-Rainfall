@@ -1,3 +1,3 @@
 # Pizza-Rainfall
 Creating a pizza rainfall game.
-Let's dee hoe many pizzas you can collect, and the highest record.
+Let's see how many pizzas you can collect, and the highest record.
